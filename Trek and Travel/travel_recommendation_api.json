@@ -1,5 +1,5 @@
 {
-    "countries": [
+    "country": [
       {
         "id": 1,
         "name": "Australia",
@@ -50,6 +50,7 @@
       }
     ],
     "temples": [
+      
       {
         "id": 1,
         "name": "Angkor Wat, Cambodia",
@@ -62,6 +63,7 @@
         "imageUrl": "https://cdn.pixabay.com/photo/2018/02/05/14/44/taj-mahal-3132348_640.jpg",
         "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
       }
+
     ],
     "beaches": [
       {
